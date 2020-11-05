@@ -1,0 +1,22 @@
+.CheckoutProduct {
+  display: flex;
+  // height: 20%;
+}
+.checkout_image {
+  object-fit: contain;
+  height: 200px;
+  width: 200px;
+}
+.checkout_info {
+  margin-left: 20px;
+}
+.checkoutproduct_rating {
+    display: flex;
+}
+.checkout_info > button{
+    background: #f0c14b;
+    border: 1px solid;
+    margin-top: 30px;
+    border-color: #a88734 #9c7e31 #846a29;
+    color: 
+}

@@ -1,0 +1,12 @@
+.home{
+
+}
+
+.home_image{
+    width: 100%;
+    max-width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 60vh;
+    mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0));
+}

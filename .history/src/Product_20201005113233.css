@@ -1,0 +1,13 @@
+.product{
+    display: flex;
+    flex-direction: column;
+
+}
+.product_rating{
+    display: flex;
+    flex-direction: row;
+  
+}
+.product_button{
+
+}

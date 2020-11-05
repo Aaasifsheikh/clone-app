@@ -1,0 +1,14 @@
+.login_logo{
+    width: 200px;
+    padding-top: 20px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.login{
+    display: flex;
+    flex-direction: column;
+}
+.form_login{
+    di
+}

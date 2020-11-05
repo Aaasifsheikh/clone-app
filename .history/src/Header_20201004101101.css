@@ -1,0 +1,31 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+.header {
+  background-color: #131921;
+  display: flex;
+  align-items: center;
+}
+.Header_logo {
+  width: 100px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 18px;
+}
+.header_search{
+    display: flex;
+}
+.header_searchInput{
+    height: 12px;
+    padding: 10px;
+    bor
+    width: 900px;
+}
+
+.header_searchIcon{
+    background-color: #cd9042;
+    cursor: pointer;
+
+}
