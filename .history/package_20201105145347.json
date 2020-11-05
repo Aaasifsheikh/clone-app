@@ -1,6 +1,6 @@
 {
   "name": "clone-app",
-    "homepage": "https://Aaasifsheikh.github.io/clone-app",
+    "homepage": "https://.github.io/my-app",
 
   "version": "0.1.0",
   "private": true,
@@ -20,8 +20,6 @@
     "react-stripe-checkout": "^2.6.3"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

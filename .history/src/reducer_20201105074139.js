@@ -3,20 +3,20 @@ import ImageLap from "./Product_image/Laptop Image 2020-10-05 at 3.06.03 PM.jpeg
 
 export const initialState = {
   basket: [
-    {
-      id: "12321341",
-      title: "Samsung Galaxy A50s (Prism crush Black, 4GB RAM, 128GB Storage)",
-      price: 22999,
-      rating: 5,
-      image: ImageMobile,
-    },
-    {
-      id: "12321341",
-      title: "HP 15 10th Generation Core if Processor 15.6-inch FHD Laptop",
-      price: 54990,
-      rating: 5,
-      image: ImageLap,
-    },
+    // {
+    //   id: "12321341",
+    //   title: "Samsung Galaxy A50s (Prism crush Black, 4GB RAM, 128GB Storage)",
+    //   price: 22999,
+    //   rating: 5,
+    //   image: ImageMobile,
+    // },
+    // {
+    //   id: "12321341",
+    //   title: "HP 15 10th Generation Core if Processor 15.6-inch FHD Laptop",
+    //   price: 54990,
+    //   rating: 5,
+    //   image: ImageLap,
+    // },
   ],
   user: null,
 };
