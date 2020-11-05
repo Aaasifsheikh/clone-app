@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/clone-app/static/css/main.6707fe41.chunk.css",
+    "main.js": "/clone-app/static/js/main.08b8fdd5.chunk.js",
+    "main.js.map": "/clone-app/static/js/main.08b8fdd5.chunk.js.map",
+    "runtime-main.js": "/clone-app/static/js/runtime-main.52d9e50c.js",
+    "runtime-main.js.map": "/clone-app/static/js/runtime-main.52d9e50c.js.map",
+    "static/js/2.e801d7b1.chunk.js": "/clone-app/static/js/2.e801d7b1.chunk.js",
+    "static/js/2.e801d7b1.chunk.js.map": "/clone-app/static/js/2.e801d7b1.chunk.js.map",
+    "index.html": "/clone-app/index.html",
+    "precache-manifest.7f58d436b43541325c1e71c3e7cbef14.js": "/clone-app/precache-manifest.7f58d436b43541325c1e71c3e7cbef14.js",
+    "service-worker.js": "/clone-app/service-worker.js",
+    "static/css/main.6707fe41.chunk.css.map": "/clone-app/static/css/main.6707fe41.chunk.css.map",
+    "static/js/2.e801d7b1.chunk.js.LICENSE.txt": "/clone-app/static/js/2.e801d7b1.chunk.js.LICENSE.txt",
+    "static/media/Book Image 2020-10-05 at 11.28.14 AM.jpeg": "/clone-app/static/media/Book Image 2020-10-05 at 11.28.14 AM.980db521.jpeg",
+    "static/media/Laptop Image 2020-10-05 at 3.06.03 PM.jpeg": "/clone-app/static/media/Laptop Image 2020-10-05 at 3.06.03 PM.d6e1dbd5.jpeg",
+    "static/media/Mobile Image 2020-10-05 at 3.03.19 PM.jpeg": "/clone-app/static/media/Mobile Image 2020-10-05 at 3.03.19 PM.503c967b.jpeg",
+    "static/media/Tv Image 2020-10-05 at 3.08.12 PM.jpeg": "/clone-app/static/media/Tv Image 2020-10-05 at 3.08.12 PM.2c7c1b69.jpeg",
+    "static/media/VibImage 2020-10-05 at 3.15.48 PM.jpeg": "/clone-app/static/media/VibImage 2020-10-05 at 3.15.48 PM.446e936a.jpeg",
+    "static/media/WhatsApp Image 2020-10-05 at 10.07.50 AM.jpeg": "/clone-app/static/media/WhatsApp Image 2020-10-05 at 10.07.50 AM.7e99f26a.jpeg",
+    "static/media/Wm Image 2020-10-05 at 3.12.21 PM.jpeg": "/clone-app/static/media/Wm Image 2020-10-05 at 3.12.21 PM.bf65cfa7.jpeg",
+    "static/media/amaazon-ad.jpeg": "/clone-app/static/media/amaazon-ad.78484262.jpeg",
+    "static/media/amazon_PNG11.png": "/clone-app/static/media/amazon_PNG11.7451f65b.png",
+    "static/media/amazon_PNG24.png": "/clone-app/static/media/amazon_PNG24.ef81cd43.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52d9e50c.js",
+    "static/js/2.e801d7b1.chunk.js",
+    "static/css/main.6707fe41.chunk.css",
+    "static/js/main.08b8fdd5.chunk.js"
+  ]
+}
