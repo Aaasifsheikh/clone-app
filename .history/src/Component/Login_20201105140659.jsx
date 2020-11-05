@@ -53,6 +53,7 @@ function Login() {
             className="input_password"
             required
           />
+          <FaEyeSlash />
           <button
             type="submit"
             onClick={accountLogin}

@@ -52,8 +52,7 @@ function Login() {
             onChange={(e) => setPassword(e.target.value)}
             className="input_password"
             required
-          />
-          <button
+          />          <button
             type="submit"
             onClick={accountLogin}
             className="login_signInButton"

@@ -33,7 +33,7 @@ const  Header=(props)=> {
         {/* 2nd Links */}
         <NavLink to="/" className="header_link">
           <div className="header_option">
-            <span className="header_optionLineOne">Return &</span>
+            <span className="header_optionLineOne">Return </span>
             <span className="header_optionLineTwo"> Order</span>
           </div>
         </NavLink>
