@@ -11,9 +11,9 @@ function App() {
       <div className="App">
     <BrowserRouter>
         <Switch>
-          <Route  exact path="/clone-app" component={Home} />
+          <Route  path="/" component={Home} />
 
-          <Route exact path="/checkout" component={Checkout} />
+          <Route  path="/checkout" component={Checkout} />
 
           <Route exact path="/login" component={Login} />
         </Switch>

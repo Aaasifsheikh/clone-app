@@ -11,7 +11,7 @@ function App() {
       <div className="App">
     <BrowserRouter>
         <Switch>
-          <Route  exact path="/clone-app" component={Home} />
+          <Route  exactpath="/clone-app" component={Home} />
 
           <Route exact path="/checkout" component={Checkout} />
 
