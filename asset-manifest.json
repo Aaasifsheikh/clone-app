@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/clone-app/static/css/main.757c90a9.chunk.css",
-    "main.js": "/clone-app/static/js/main.3d60eae5.chunk.js",
-    "main.js.map": "/clone-app/static/js/main.3d60eae5.chunk.js.map",
+    "main.js": "/clone-app/static/js/main.c5003930.chunk.js",
+    "main.js.map": "/clone-app/static/js/main.c5003930.chunk.js.map",
     "runtime-main.js": "/clone-app/static/js/runtime-main.52d9e50c.js",
     "runtime-main.js.map": "/clone-app/static/js/runtime-main.52d9e50c.js.map",
     "static/js/2.c0854fa6.chunk.js": "/clone-app/static/js/2.c0854fa6.chunk.js",
     "static/js/2.c0854fa6.chunk.js.map": "/clone-app/static/js/2.c0854fa6.chunk.js.map",
     "index.html": "/clone-app/index.html",
-    "precache-manifest.eebc4e45944f3cb03ee2acda01ff66f2.js": "/clone-app/precache-manifest.eebc4e45944f3cb03ee2acda01ff66f2.js",
+    "precache-manifest.574bab8a3b9095c037741444f10a4c1c.js": "/clone-app/precache-manifest.574bab8a3b9095c037741444f10a4c1c.js",
     "service-worker.js": "/clone-app/service-worker.js",
     "static/css/main.757c90a9.chunk.css.map": "/clone-app/static/css/main.757c90a9.chunk.css.map",
     "static/js/2.c0854fa6.chunk.js.LICENSE.txt": "/clone-app/static/js/2.c0854fa6.chunk.js.LICENSE.txt",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.52d9e50c.js",
     "static/js/2.c0854fa6.chunk.js",
     "static/css/main.757c90a9.chunk.css",
-    "static/js/main.3d60eae5.chunk.js"
+    "static/js/main.c5003930.chunk.js"
   ]
 }
