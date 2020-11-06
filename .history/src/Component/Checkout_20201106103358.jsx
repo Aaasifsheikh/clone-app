@@ -4,13 +4,11 @@ import { useStateValue } from "../StateProvider";
 import "./Checkout.scss";
 import CheckoutProduct from "./CheckoutProduct";
 import Subtotal from "./Subtotal";
-import Header from "./Header";
-
 const Checkout = () => {
   const [{ basket }] = useStateValue();
   return (
     <React.Fragment>
-      <Header />
+      <Heades />
       <div className="checkout">
         <div className="checkout_left">
           <img src={banner} className="checkout_ad" alt="not-found" />

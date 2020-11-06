@@ -1,5 +1,6 @@
 {
   "name": "clone-app",
+  "homepage": "https://Aaasifsheikh.github.io/clone-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,6 +9,7 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
+    "deploy": "^1.0.3",
     "react": "^16.13.1",
     "react-currency-format": "^1.0.0",
     "react-dom": "^16.13.1",
@@ -18,8 +20,10 @@
     "react-stripe-checkout": "^2.6.3"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build",p
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },

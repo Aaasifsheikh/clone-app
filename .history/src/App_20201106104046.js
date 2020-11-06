@@ -2,14 +2,15 @@ import React from "react";
 import { BrowserRouter } from "react-router-dom";
 import { Switch, Route } from "react-router-dom";
 import "./Component/Header.scss";
+import Header from "./Component/Header";
 import Home from "./Component/Home";
 import "./Component/Home.scss";
 import Login from "./Component/Login";
 import Checkout from "./Component/Checkout";
 function App() {
   return (
-      <div className="App">
     <BrowserRouter>
+      <div className="App">
         <Switch>
           <Route exact path="/" component={Home} />
 
@@ -17,8 +18,8 @@ function App() {
 
           <Route exact path="/login" component={Login} />
         </Switch>
-    </BrowserRouter>
       </div>
+    </BrowserRouter>
   );
 }
 

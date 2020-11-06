@@ -4,7 +4,7 @@ import { useStateValue } from "../StateProvider";
 import "./Checkout.scss";
 import CheckoutProduct from "./CheckoutProduct";
 import Subtotal from "./Subtotal";
-import Header from "./Header";
+import Header from "./Component/Header";
 
 const Checkout = () => {
   const [{ basket }] = useStateValue();

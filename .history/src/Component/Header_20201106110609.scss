@@ -66,38 +66,5 @@
 
 /* -------media for mobile-view-------*/
 @media (max-width: 768px) {
-  .header {
-    background-color: #131921;
-    display: flex;
-    align-items: center;
-    position: sticky;
-    top: 0;
-    z-index: 100;
-  }
-  .Header_logo {
-    width: 70px;
-    object-fit: contain;
-    // margin-left: 20px;
-    // margin-right: 20px;
-    // margin-top: 18px;
-  }
-  .header_search {
-    display: flex;
-    
-    flex: 1;
-  }
-  .header_searchInput {
-    height: 32px;
-    padding: 10px;
-    border: none;
-    width: 100%;
-  }
-  
-  .header_searchIcon {
-    padding: 5px;
-    height: 32px !important;
-    background-color: #cd9042;
-    cursor: pointer;
-  }
   
 }

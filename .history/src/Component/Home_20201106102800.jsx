@@ -1,4 +1,4 @@
-import Header from "./Header";
+import Header from "./Component/Header";
 import React from "react";
 import Image from "../Image/WhatsApp Image 2020-10-05 at 10.07.50 AM.jpeg";
 import ImageBook from "../Product_image/Book Image 2020-10-05 at 11.28.14 AM.jpeg";
