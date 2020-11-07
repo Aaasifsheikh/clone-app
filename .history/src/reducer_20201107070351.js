@@ -2,7 +2,7 @@ import ImageMobile from "./Product_image/Mobile Image 2020-10-05 at 3.03.19 PM.j
 import ImageLap from "./Product_image/Laptop Image 2020-10-05 at 3.06.03 PM.jpeg";
 
 export const initialState = {
-  basket: [],
+  basket: [ {}],
   user: null,
 };
 export const getBaskettotal = (basket) =>
