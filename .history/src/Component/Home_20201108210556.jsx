@@ -25,10 +25,10 @@ function Home() {
           <div className="home_row1">
             <Product
               id="1232134"
-              title="Samsung galexy Tab A10.1"
-              price={16550}
+              title="Samsung galexy "
+              price={1100}
               rating={5}
-              image={tablet}
+              image={ImageBook}
             />
             <Product
               id="12321333"

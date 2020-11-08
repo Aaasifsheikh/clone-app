@@ -1,7 +1,7 @@
 import Header from "./Header";
 import React from "react";
 import Image from "../Image/WhatsApp Image 2020-10-05 at 10.07.50 AM.jpeg";
-import tablet from "../Product_image/tablet.jpeg";
+import ImageBook from "../Product_image/Book Image 2020-10-05 at 11.28.14 AM.jpeg";
 import ImageLap from "../Product_image/Laptop Image 2020-10-05 at 3.06.03 PM.jpeg";
 import ImageMobile from "../Product_image/Mobile Image 2020-10-05 at 3.03.19 PM.jpeg";
 import ImageTv from "../Product_image/Tv Image 2020-10-05 at 3.08.12 PM.jpeg";
@@ -24,11 +24,11 @@ function Home() {
         <div className="HomeAll">
           <div className="home_row1">
             <Product
-              id="1232134"
-              title="Samsung galexy Tab A10.1"
-              price={16550}
+              id="12321341"
+              title="The Lean Startup: How Constant Innovation Creates Radically Successful Businesses Paperback"
+              price={1100}
               rating={5}
-              image={tablet}
+              image={ImageBook}
             />
             <Product
               id="12321333"
@@ -85,8 +85,8 @@ function Home() {
             />
             <Product
               id="12321341"
-              title="Honor Watch Magic, Lightweight Smart Watch"
-              price={3490}
+              title=""
+              price={13490}
               rating={4}
               image={watch}
             />

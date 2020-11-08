@@ -28,7 +28,7 @@ function Home() {
               title="Samsung galexy Tab A10.1"
               price={16550}
               rating={5}
-              image={tablet}
+              image={ImageBook}
             />
             <Product
               id="12321333"

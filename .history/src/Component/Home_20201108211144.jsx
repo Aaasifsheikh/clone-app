@@ -21,8 +21,8 @@ function Home() {
       <div className="home">
         <img src={Image} alt="" className="home_image" />
         {/* Product id, title, price, rating, image */}
-        <div className="HomeAll">
-          <div className="home_row1">
+        
+          < className="home_row1">
             <Product
               id="1232134"
               title="Samsung galexy Tab A10.1"
@@ -44,7 +44,7 @@ function Home() {
               rating={4}
               image={camera}
             />
-          </div>
+          </>
           <div className="home_row2">
             <Product
               id="12321341"
@@ -91,8 +91,8 @@ function Home() {
               image={watch}
             />
           </div>
-        </div>
       </div>
+        
     </React.Fragment>
   );
 }

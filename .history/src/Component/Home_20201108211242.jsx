@@ -21,7 +21,7 @@ function Home() {
       <div className="home">
         <img src={Image} alt="" className="home_image" />
         {/* Product id, title, price, rating, image */}
-        <div className="HomeAll">
+        <div className
           <div className="home_row1">
             <Product
               id="1232134"
