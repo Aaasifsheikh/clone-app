@@ -16,6 +16,7 @@ const Header = ({ value }) => {
         <img src={logo} alt="logo" className="Header_logo" />
       </NavLink>
       {/* Search Box */}
+      <
       <div className="header_search">
         <input type="text" className="header_searchInput" />
 
