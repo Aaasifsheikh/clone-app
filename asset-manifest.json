@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/clone-app/static/css/main.428ebd7f.chunk.css",
-    "main.js": "/clone-app/static/js/main.74d64d98.chunk.js",
-    "main.js.map": "/clone-app/static/js/main.74d64d98.chunk.js.map",
+    "main.css": "/clone-app/static/css/main.86b9c1ed.chunk.css",
+    "main.js": "/clone-app/static/js/main.9377730b.chunk.js",
+    "main.js.map": "/clone-app/static/js/main.9377730b.chunk.js.map",
     "runtime-main.js": "/clone-app/static/js/runtime-main.52d9e50c.js",
     "runtime-main.js.map": "/clone-app/static/js/runtime-main.52d9e50c.js.map",
     "static/js/2.ab0c5404.chunk.js": "/clone-app/static/js/2.ab0c5404.chunk.js",
     "static/js/2.ab0c5404.chunk.js.map": "/clone-app/static/js/2.ab0c5404.chunk.js.map",
     "index.html": "/clone-app/index.html",
-    "precache-manifest.c01e6ba52e4b3121d753ed7c2b7622ae.js": "/clone-app/precache-manifest.c01e6ba52e4b3121d753ed7c2b7622ae.js",
+    "precache-manifest.6bbfae5083401a9de2ee0ec1e23fa878.js": "/clone-app/precache-manifest.6bbfae5083401a9de2ee0ec1e23fa878.js",
     "service-worker.js": "/clone-app/service-worker.js",
-    "static/css/main.428ebd7f.chunk.css.map": "/clone-app/static/css/main.428ebd7f.chunk.css.map",
+    "static/css/main.86b9c1ed.chunk.css.map": "/clone-app/static/css/main.86b9c1ed.chunk.css.map",
     "static/js/2.ab0c5404.chunk.js.LICENSE.txt": "/clone-app/static/js/2.ab0c5404.chunk.js.LICENSE.txt",
     "static/media/Laptop Image 2020-10-05 at 3.06.03 PM.jpeg": "/clone-app/static/media/Laptop Image 2020-10-05 at 3.06.03 PM.d6e1dbd5.jpeg",
     "static/media/Mobile Image 2020-10-05 at 3.03.19 PM.jpeg": "/clone-app/static/media/Mobile Image 2020-10-05 at 3.03.19 PM.503c967b.jpeg",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.52d9e50c.js",
     "static/js/2.ab0c5404.chunk.js",
-    "static/css/main.428ebd7f.chunk.css",
-    "static/js/main.74d64d98.chunk.js"
+    "static/css/main.86b9c1ed.chunk.css",
+    "static/js/main.9377730b.chunk.js"
   ]
 }
