@@ -1,21 +1,20 @@
 {
   "files": {
-    "main.css": "/clone-app/static/css/main.9b929fe4.chunk.css",
-    "main.js": "/clone-app/static/js/main.5efa42cf.chunk.js",
-    "main.js.map": "/clone-app/static/js/main.5efa42cf.chunk.js.map",
+    "main.css": "/clone-app/static/css/main.428ebd7f.chunk.css",
+    "main.js": "/clone-app/static/js/main.74d64d98.chunk.js",
+    "main.js.map": "/clone-app/static/js/main.74d64d98.chunk.js.map",
     "runtime-main.js": "/clone-app/static/js/runtime-main.52d9e50c.js",
     "runtime-main.js.map": "/clone-app/static/js/runtime-main.52d9e50c.js.map",
-    "static/js/2.6823024c.chunk.js": "/clone-app/static/js/2.6823024c.chunk.js",
-    "static/js/2.6823024c.chunk.js.map": "/clone-app/static/js/2.6823024c.chunk.js.map",
+    "static/js/2.ab0c5404.chunk.js": "/clone-app/static/js/2.ab0c5404.chunk.js",
+    "static/js/2.ab0c5404.chunk.js.map": "/clone-app/static/js/2.ab0c5404.chunk.js.map",
     "index.html": "/clone-app/index.html",
-    "precache-manifest.b1062ba8a991c9fbddecadd166da47d7.js": "/clone-app/precache-manifest.b1062ba8a991c9fbddecadd166da47d7.js",
+    "precache-manifest.c01e6ba52e4b3121d753ed7c2b7622ae.js": "/clone-app/precache-manifest.c01e6ba52e4b3121d753ed7c2b7622ae.js",
     "service-worker.js": "/clone-app/service-worker.js",
-    "static/css/main.9b929fe4.chunk.css.map": "/clone-app/static/css/main.9b929fe4.chunk.css.map",
-    "static/js/2.6823024c.chunk.js.LICENSE.txt": "/clone-app/static/js/2.6823024c.chunk.js.LICENSE.txt",
+    "static/css/main.428ebd7f.chunk.css.map": "/clone-app/static/css/main.428ebd7f.chunk.css.map",
+    "static/js/2.ab0c5404.chunk.js.LICENSE.txt": "/clone-app/static/js/2.ab0c5404.chunk.js.LICENSE.txt",
     "static/media/Laptop Image 2020-10-05 at 3.06.03 PM.jpeg": "/clone-app/static/media/Laptop Image 2020-10-05 at 3.06.03 PM.d6e1dbd5.jpeg",
     "static/media/Mobile Image 2020-10-05 at 3.03.19 PM.jpeg": "/clone-app/static/media/Mobile Image 2020-10-05 at 3.03.19 PM.503c967b.jpeg",
     "static/media/Tv Image 2020-10-05 at 3.08.12 PM.jpeg": "/clone-app/static/media/Tv Image 2020-10-05 at 3.08.12 PM.2c7c1b69.jpeg",
-    "static/media/VibImage 2020-10-05 at 3.15.48 PM.jpeg": "/clone-app/static/media/VibImage 2020-10-05 at 3.15.48 PM.446e936a.jpeg",
     "static/media/WhatsApp Image 2020-10-05 at 10.07.50 AM.jpeg": "/clone-app/static/media/WhatsApp Image 2020-10-05 at 10.07.50 AM.7e99f26a.jpeg",
     "static/media/Wm Image 2020-10-05 at 3.12.21 PM.jpeg": "/clone-app/static/media/Wm Image 2020-10-05 at 3.12.21 PM.bf65cfa7.jpeg",
     "static/media/amaazon-ad.jpeg": "/clone-app/static/media/amaazon-ad.78484262.jpeg",
@@ -29,8 +28,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.52d9e50c.js",
-    "static/js/2.6823024c.chunk.js",
-    "static/css/main.9b929fe4.chunk.css",
-    "static/js/main.5efa42cf.chunk.js"
+    "static/js/2.ab0c5404.chunk.js",
+    "static/css/main.428ebd7f.chunk.css",
+    "static/js/main.74d64d98.chunk.js"
   ]
 }
