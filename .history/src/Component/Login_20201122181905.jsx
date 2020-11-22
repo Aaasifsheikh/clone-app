@@ -3,7 +3,9 @@ import loginLogo from "../Logo/amazon_PNG24.png";
 import "./Login.css";
 import { NavLink, useHistory } from "react-router-dom";
 
+
 function Login() {
+
   const [input, setInput] = useState();
   const [password, setPassword] = useState();
 
@@ -11,10 +13,8 @@ function Login() {
   const accountLogin = (e) => {
     e.preventDefault(); /*this stop the refresh*/
     // do the login logic
-    alert(
-      `Your account is successfully login. your login id: ${input} and password: ${password}`
-    );
-
+    alert(`Your account is successfully login. your login id: ${input} and password: ${password}`)
+    
     setInput("");
     setPassword("");
     history.push("/clone-app");
@@ -30,7 +30,7 @@ function Login() {
         <img src={loginLogo} className="login_logo" alt="" />
       </NavLink>
       <div className="login_container">
-        <h1>Sign in {setInput} </h1>
+        <h1>Sign in  </h1>
         <form className="form_login" onSubmit={accountLogin}>
           <h5>E-mail</h5>
           <input
@@ -38,7 +38,10 @@ function Login() {
             value={input}
             name="input"
             autoComplete="off"
-            onChange={(e) => setInput(e.target.value)}
+            onChange={(e) => {
+              setInput(e.target.value);
+            }}
+           
             className="login_input"
             required
           />

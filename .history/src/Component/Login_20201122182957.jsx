@@ -23,6 +23,9 @@ function Login() {
     e.preventDefault();
     // do the register logic
   };
+  const changeValue = (e) => {
+    setInput(e.target.value);
+  };
 
   return (
     <div className="login">
@@ -38,7 +41,7 @@ function Login() {
             value={input}
             name="input"
             autoComplete="off"
-            onChange={(e) => setInput(e.target.value)}
+            onChange={changeValue}
             className="login_input"
             required
           />

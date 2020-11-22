@@ -7,7 +7,6 @@
   background-color: #131921;
   display: flex;
   align-items: center;
-  object-fit: contain;
   position: sticky;
   top: 0;
   z-index: 100;
@@ -22,14 +21,12 @@
 .header_search {
   display: flex;
   flex: 1;
-  object-fit: contain;
 }
 .header_searchInput {
   height: 32px;
   padding: 10px;
   border: none;
   width: 100%;
-  object-fit: contain;
 }
 
 .header_searchIcon {
@@ -96,12 +93,12 @@
   //   display: flex;
   //   flex: 1;
   // }
-  .header_searchInput {
-    height: 32px;
-    padding: 10px;
-    border: none;
-    width: 100%;
-  }
+  // .header_searchInput {
+  //   height: 32px;
+  //   padding: 10px;
+  //   border: none;
+  //   width: 100%;
+  // }
   
   // .header_searchIcon {
   //   padding: 5px;
@@ -109,7 +106,6 @@
   //   background-color: #cd9042;
   //   cursor: pointer;
   // }
-  
   .header_nav {
     display: flex;
     justify-content: space-evenly;

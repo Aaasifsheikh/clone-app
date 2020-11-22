@@ -6,7 +6,7 @@ import ShoppingBasketIcon from "@material-ui/icons/ShoppingBasket";
 import { useStateValue } from "../StateProvider";
 import { initialState } from "../reducer";
 
-const Header = ({ value }) => {
+const Header = ({value }) => {
   const [{ basket }] = useStateValue();
 
   return (
@@ -16,12 +16,10 @@ const Header = ({ value }) => {
         <img src={logo} alt="logo" className="Header_logo" />
       </NavLink>
       {/* Search Box */}
-      <div className="search">
-        <div className="header_search">
-          <input type="text" className="header_searchInput" />
+      <div className="header_search">
+        <input type="text" className="header_searchInput" />
 
-          <SearchIcon className="header_searchIcon" />
-        </div>
+        <SearchIcon className="header_searchIcon" />
       </div>
       {/* 3 Links */}
       <div className="header_nav">
@@ -33,7 +31,7 @@ const Header = ({ value }) => {
           </div>
         </NavLink>
         {/* 2nd Links */}
-        <NavLink to="/clone-app" className="header_link">
+        <NavLink to="/" className="header_link">
           <div className="header_option">
             <span className="header_optionLineOne">Return &</span>
             <span className="header_optionLineTwo"> Order</span>

@@ -38,7 +38,9 @@ function Login() {
             value={input}
             name="input"
             autoComplete="off"
-            onChange={(e) => setInput(e.target.value)}
+            onChange={(e)=>(
+              setInput
+            )
             className="login_input"
             required
           />

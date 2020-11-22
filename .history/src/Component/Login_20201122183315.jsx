@@ -11,17 +11,20 @@ function Login() {
   const accountLogin = (e) => {
     e.preventDefault(); /*this stop the refresh*/
     // do the login logic
-    alert(
-      `Your account is successfully login. your login id: ${input} and password: ${password}`
-    );
+    // alert(
+    //   `Your account is successfully login. your login id: ${input} and password: ${password}`
+    // );
 
     setInput("");
     setPassword("");
-    history.push("/clone-app");
+    // history.push("/clone-app");
   };
   const register = (e) => {
     e.preventDefault();
     // do the register logic
+  };
+  const changeValue = (e) => {
+    setInput(e.target.value);
   };
 
   return (
@@ -38,7 +41,7 @@ function Login() {
             value={input}
             name="input"
             autoComplete="off"
-            onChange={(e) => setInput(e.target.value)}
+            onChange={changeValue}
             className="login_input"
             required
           />

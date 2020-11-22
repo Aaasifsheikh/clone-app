@@ -16,12 +16,11 @@ const Header = ({ value }) => {
         <img src={logo} alt="logo" className="Header_logo" />
       </NavLink>
       {/* Search Box */}
-      <div className="search">
-        <div className="header_search">
-          <input type="text" className="header_searchInput" />
+      <div className
+      <div className="header_search">
+        <input type="text" className="header_searchInput" />
 
-          <SearchIcon className="header_searchIcon" />
-        </div>
+        <SearchIcon className="header_searchIcon" />
       </div>
       {/* 3 Links */}
       <div className="header_nav">

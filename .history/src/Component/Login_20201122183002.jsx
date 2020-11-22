@@ -21,7 +21,10 @@ function Login() {
   };
   const register = (e) => {
     e.preventDefault();
-    // do the register logic
+    // do the register logic``
+  };
+  const changeValue = (e) => {
+    setInput(e.target.value);
   };
 
   return (
@@ -38,7 +41,7 @@ function Login() {
             value={input}
             name="input"
             autoComplete="off"
-            onChange={(e) => setInput(e.target.value)}
+            onChange={changeValue}
             className="login_input"
             required
           />
